@@ -10,7 +10,7 @@
     "react-app-rewire-eslint": "^0.2.3",
     "react-dom": "^16.5.2",
     "react-emotion": "^9.2.12",
-    "react-scripts": "2.0.4",
+    "react-scripts": "5.0.1",
     "tailwindcss": "^0.6.6"
   },
   "scripts": {
